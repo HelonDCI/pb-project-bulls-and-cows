@@ -78,8 +78,6 @@ here are some cool features you can add next:
 - Another round stats: If the user plays multiple rounds, you display the total of games played and the number of attempts for each game.
 - Maximum number of attempts: If the user cannot guess in N attemps, they lose the game.
 - Configurable game level: The user can choose if they want to play easy or difficult mode. In easy mode, for example, there could be no lmit on the number of attempts, while the difficult level could have a limit.
-- Write tests for your functions.
-- Permanent records: Save the game stats in a file.
 
 All the extras are only **optional** - add one or two if you want to have a bigger challenge, but only **after** the core of the game is working. Don't forget to push your code to version control, so you have a working copy to go back to if you need to.
 
