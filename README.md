@@ -2,7 +2,7 @@
 
 In this project we will build a two player game that is called **Bulls and Cows**.
 
-![cow icon](cow.svg) ![bull icon](bull.svg)
+![cow icon](assets/cow.svg) ![bull icon](assets/bull.svg)
 
 ## Rules
 
